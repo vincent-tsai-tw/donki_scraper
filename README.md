@@ -10,7 +10,7 @@ clone this repository by `git clone git@github.com:vincent-tsai-tw/donki_scraper
 <br/>
 
 ## Install requirements.txt <br/>
-Enter donki_scraper folder `cd donki_scraper`
+Enter donki_scraper folder `cd donki_scraper` <br/>
 You can run create a virtual environment to run this script to make sure you have a clean environment. <br/>
 Create a new virtualenv with virtual environment name: `virtualenv venv` <br/>
 Activate new virtualenv: `source venv/bin/activate`<br/>
