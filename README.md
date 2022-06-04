@@ -30,3 +30,10 @@ You can choose which main category you would like to get the products list and c
 <img width="999" alt="image" src="https://user-images.githubusercontent.com/67896676/171989854-0899e84b-b8b1-4849-92e0-a0379eb16c0d.png">
 
 <img width="555" alt="image" src="https://user-images.githubusercontent.com/67896676/171989986-71d156ca-2f4e-4b47-9ede-127d181fee9e.png">
+
+
+
+## Reference ##
+If you have trouble for using jupyter notebook kernal issue.
+Please refer to this [stackoverflow](https://stackoverflow.com/questions/58405650/jupyter-notebook-and-virtualenv) <br/>
+If you want to remove your kernel, please refer to this [stackoverflow](https://stackoverflow.com/questions/42635310/remove-kernel-on-jupyter-notebook) <br/>
