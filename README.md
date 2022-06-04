@@ -1,6 +1,6 @@
 # donki_scraper
 Donki products scraper
-This scraper would scrape the Donki products list by each category.
+This scraper would get the Donki products list by each category.
 
 Please follow the below step to run this script.
 <br/>
