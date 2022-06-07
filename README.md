@@ -1,6 +1,7 @@
 # donki_scraper
-Donki products scraper
+Donki products scraper <br/>
 This scraper would get the Donki products list by each category.
+The result CSV files please refer to the [result folder](https://github.com/vincent-tsai-tw/donki_scraper/tree/main/result) 
 
 Please follow the below step to run this script.
 <br/>
