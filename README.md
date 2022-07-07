@@ -15,6 +15,7 @@ Enter donki_scraper folder `cd donki_scraper` <br/>
 You can run create a virtual environment to run this script to make sure you have a clean environment. <br/>
 Create a new virtualenv with virtual environment name: `virtualenv venv` <br/>
 Activate new virtualenv: `source venv/bin/activate`<br/>
+Install chromedriver by brew `brew install --cask chromedriver`<br/>
 Install packages from requirements.txt: `pip3 install -r requirements.txt`<br/>
 
 ## Open the jupyter notebook
